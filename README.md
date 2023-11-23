@@ -1,2 +1,2 @@
 # STA_Proj-Leavitt
-Presentation Exercide for Cepheids
+Presentation Exercise for Cepheids
